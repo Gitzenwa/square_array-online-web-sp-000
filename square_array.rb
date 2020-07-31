@@ -3,7 +3,7 @@ def square_array(array)
   new_numbers = []
   array.each{|squared|
     squared * squared
-    
-    
+
+
   }
 end
